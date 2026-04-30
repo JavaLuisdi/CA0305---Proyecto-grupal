@@ -1,7 +1,7 @@
 # CA0305 - Herramientas de Ciencia de Datos II
 ## Proyecto Grupal
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12.2-blue?logo=python)
 ![Anaconda](https://img.shields.io/badge/Anaconda-ML150-green?logo=anaconda)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
