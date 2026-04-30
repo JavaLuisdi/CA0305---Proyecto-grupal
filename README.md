@@ -15,7 +15,7 @@ Repositorio del grupo para el proyecto del curso CA0305 - Herramientas de Cienci
 
 ## 👥 Integrantes
 
-- Sebastián Calderón
+- Sebastián Calderón Segura
 - Amy Chen Wu
 - Luis Diego Elizondo Fennell
 - Santiago
